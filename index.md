@@ -11,3 +11,9 @@ Learning Markdown
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Add a checklist
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
